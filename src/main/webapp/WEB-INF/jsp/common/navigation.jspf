@@ -1,0 +1,16 @@
+<nav role="navigation" class="navbar navbar-light navbar-expand-lg" style="background-color: #e3f2fd;">
+	<div class="">
+		<a href="/" class="navbar-brand mb-0 h1">My TODO</a>
+	</div>
+	
+	<div class="collapse navbar-collapse">
+		<ul class="navigation navbar-nav me-auto mb-1 mb-lg-1">
+			<li class="active" >
+			<a href="/">Home</a></li>
+			<li style="padding-left:1em"><a href="/list-todos">Todos</a></li>
+		</ul>
+		<ul class="navigation navbar-nav navbar-right">
+			<li><a href="/logout">Logout</a></li>
+		</ul>
+	</div>
+</nav>
